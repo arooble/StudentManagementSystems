@@ -11,6 +11,8 @@
   <li><p>Asks the user to enter how many students he/she would like to enroll into the database</p></li>
   <li><p>The user is prompted to enter the full name and student level</p></li>
   <li><p>Each student receives a 5-digit unique ID, with first number representing their level</p></li>
+  <li><p>Each course is $200 to enroll</p></li>
+
 <ul>
 
 <br>
